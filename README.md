@@ -1,3 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
-
+[![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=Python&logoColor=white)]
