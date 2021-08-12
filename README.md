@@ -6,12 +6,12 @@
 
 ---
 ## Career🎓🏢
-| **구분 / TYPE** | **기간 / DATE** | **기관 / Agency** | **교육 및 기술 / Education & Tech** | **비고 / NOTE** |
+| **구분<br>TYPE** | **기간<br>DATE** | **기관<br>Agency** | **교육 및 기술<br>Education & Tech** | **비고<br>NOTE** |
 |:-:|:-:|:-:|:-:|:-:|
-| 학생 / Student | 2015.03 ~ 2021.02 | 경남과학기술대학교<br>GNTech | 컴퓨터 공학부 / computer science department |  |
-| 교육 / Education | 2020.08 ~ 2020.10 | 한국정보화진흥원<br>NIA | 공공빅데이터 청년인턴십 교육 |
-| 인턴 / Intern | 2020.10 ~ 2020.12 | 모 시청 / City Hall | 교육 수료 후 모 시청 인턴 근무 |
-| 프리랜서 / Freelancer | |||
+| 학생<br>Student | 2015.03 ~ 2021.02 | 경남과학기술대학교<br>GNTech | 컴퓨터 공학부<br>computer science department ||
+| 교육<br>Education | 2020.08 ~ 2020.10 | 한국정보화진흥원<br>NIA | 빅데이터 통계 및 분석<br>Big data statistics & analysis | 공공빅데이터 청년인턴십 교육<br>Public Big Data Youth Internship |
+| 인턴<br>Intern | 2020.10 ~ 2020.12 | 모 시청 / City Hall | 교육 수료 후 모 시청 인턴 근무 ||
+| 프리랜서<br>Freelancer |||||
 ---
 ## My Study Tech Stack✏️💪
 ### Programming Language
