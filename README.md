@@ -15,6 +15,13 @@
 | IT 강사<br>IT Teacher | 2020.12 ~ 2020.12 | 이수안컴퓨터연구소<br>Isuan Computer Research Institute Corp | Python 교육 강사<br>Teaching Python ||
 
 ---
+## Certificate📖🔧
+| **명<br>NAME** | **취득일자<br>Acquisition Date** | **발급 기관<br>Issuing Authority** |
+|:-:|:-:|:-:|
+| 정보처리기사<br>Engineer Information Processing | 2020.08.28 | 한국산업인력공단<br>HRDK|
+| SQLD<br>SQL Developer | 2019.12.31 | 한국데이터산업진흥원<br>K-DATA |
+
+---
 ## My Study Tech Stack✏️💪
 ### Programming Language
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![JAVA](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) 
