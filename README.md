@@ -1,6 +1,6 @@
 # ✋ Welcome to  my github!!👍
 
-## Intro
+## Intro😆🙏
 ### 데이터를 좋아하는 개발자💕💻
 ### I am a developer who loves data😊
 
