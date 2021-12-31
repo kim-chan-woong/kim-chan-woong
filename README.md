@@ -9,10 +9,11 @@
 | **구분<br>TYPE** | **기간<br>DATE** | **기관<br>Agency** | **교육 및 기술<br>Education & Tech** | **비고<br>NOTE** |
 |:-:|:-:|:-:|:-:|:-:|
 | 학생<br>Student | 2015.03 ~ 2021.02 | 경남과학기술대학교<br>GNTech | 컴퓨터 공학부<br>Computer Science Department ||
-| 교육<br>Education | 2020.08 ~ 2020.10 | 한국정보화진흥원<br>NIA | 빅데이터 통계 및 분석<br>Big Data Statistics & Analysis | 공공빅데이터 청년인턴십 교육 수료<br>Public Big Data Youth Internship Education |
-| 인턴<br>Intern | 2020.10 ~ 2020.12 | 모 시청<br>City Hall | 빅데이터 통계 및 분석<br>Big Data Statistics & Analysis |  공공빅데이터 청년인턴십 인턴 근무<br>Public Big Data Youth Internship Intern |
+| 교육<br>Education | 2020.08 ~ 2020.10 | 한국정보화진흥원<br>NIA | 빅데이터 통계 및 분석<br>Big Data Statistics & Analysis | 공공빅데이터 청년인턴십<br>교육 수료<br>Public Big Data Youth Internship Education |
+| 인턴<br>Intern | 2020.10 ~ 2020.12 | 모 시청<br>City Hall | 빅데이터 통계 및 분석<br>Big Data Statistics & Analysis |  공공빅데이터 청년인턴십<br>인턴 근무<br>Public Big Data Youth Internship Intern |
 | 프리랜서<br>Freelancer | 2020.11 ~ 2020.11 | (주)유비엔<br>Ubien Corp | 이미지 딥러닝 모델 개발<br>Image Deep learning model Development| 데이터 엔지니어<br>Data Engineer |
 | IT 강사<br>IT Teacher | 2020.12 ~ 2020.12 | 이수안컴퓨터연구소<br>Isuan Computer Research Institute Corp | Python 교육 강사<br>Teaching Python ||
+| 빅데이터 플랫폼 엔지니어<br>Bigdata Platform Engineer| 2021.01 ~ ing | (주)엑셈<br>EXEM Corp | 데이터 엔지니어 및 웹 개발자<br>Data Engineer & Web Developer ||
 
 ---
 ## Certificate📖🔧
